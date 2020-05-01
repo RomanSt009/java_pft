@@ -21,6 +21,8 @@
     <bytecodeTargetLevel>
       <module name="10_main" target="1.5" />
       <module name="10_test" target="1.5" />
+      <module name="DINS_main" target="1.5" />
+      <module name="DINS_test" target="1.5" />
       <module name="sandbox_main" target="1.8" />
       <module name="sandbox_test" target="1.8" />
     </bytecodeTargetLevel>
