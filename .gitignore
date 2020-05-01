@@ -1,5 +1,6 @@
 .gradle
 .idea/workspace.xml
+/rest-sample/
 /build/
 
 # Ignore Gradle GUI config
